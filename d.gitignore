@@ -1,0 +1,26 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.apk
+*.unitypackage
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# 기타
+.DS_Store
+*.swp
